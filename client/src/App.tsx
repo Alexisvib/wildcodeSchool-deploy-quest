@@ -30,7 +30,7 @@ function App() {
     <div>
       <Header>
         <Container>
-          <h1>Coucou mes followers Matthieu et Pierre</h1>
+          <h1>Think Lion not Kitty</h1>
         </Container>
       </Header>
       <Container>
